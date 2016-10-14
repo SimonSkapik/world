@@ -73,6 +73,7 @@
 -3171 46 2546 -3135 58 2557 SunkenShip-v3.tml
 -3168 46 2018 -3157 66 2054 SunkenShip-v2.tml
 -3163 68 2309 -3152 76 2317 MinersHut.tml
+-3158 62 1861 -3128 100 1891 PirateShip.tml
 -3128 66 2224 -3125 70 2226 SkeletonHeadStatue.tml
 -3127 62 2477 -3124 65 2480 StoneGrill.tml
 -3125 66 2401 -3115 70 2411 RuinedSmallFountainDiagonal.tml
